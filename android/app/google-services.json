@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "427298550927",
+    "firebase_url": "https://bookstore-5e53b-default-rtdb.firebaseio.com",
+    "project_id": "bookstore-5e53b",
+    "storage_bucket": "bookstore-5e53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427298550927:android:15d7eaf3fc9b774efaecfa",
+        "android_client_info": {
+          "package_name": "com.ashesi.bookstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_hTVnKvyWI27sjM7k_ZCiWSoDQX_ttI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427298550927:android:6a2d253afef47b82faecfa",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_hTVnKvyWI27sjM7k_ZCiWSoDQX_ttI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
